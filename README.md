@@ -2,7 +2,7 @@
 #### I am Flutter Developer
 ![I am Flutter Developer](https://raw.githubusercontent.com/farhanfadila1717/farhanfadila1717/main/Frame%201.png)
 
-I’m a Flutter Developer from Indonesia, I have worked with the Flutter framework for 2 years. Familiar with Bloc State Management and Third Party (Firebase, HTTP).
+I’m a Flutter Developer from Indonesia, I have worked with the Flutter framework for 1 year. Familiar with Bloc State Management and Third Party (Firebase, HTTP).
 
 ## Skils and Experience
 - 🎯 Dart.
