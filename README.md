@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Farhan Fadila
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### my name is Farhan Fadila
 #### I am Flutter Developer
 ![I am Flutter Developer](https://raw.githubusercontent.com/farhanfadila1717/farhanfadila1717/main/Frame%201.png)
 
