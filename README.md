@@ -1,6 +1,6 @@
 Hi I'm Farhan, Flutter Developer from Indonesia 🇮🇩
 
-I’m from Indonesia and I have been working as a Mobile Developer for more than 4 years. I’ve worked for a Indonesia company Bicarakan.id as a Software Engineer for 3 years.
+I’m from Indonesia and I have been working as a Mobile Developer for more than 4 years. I’ve worked for a Indonesia company Bicarakan.id as a Software Engineer for 3 years
 
 I'm also maintainters source flutter & dart package:
 - [slide_countdown](https://pub.dev/packages/slide_countdown) 408 likes on pub.dev
